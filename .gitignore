@@ -1,0 +1,5 @@
+.DS_Store
+/eye_rest_guard
+/build/
+*.app/
+*.dSYM/
